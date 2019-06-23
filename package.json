@@ -1,0 +1,50 @@
+{
+  "_args": [
+    [
+      "react-native-android-badge@0.4.3",
+      "D:\\workplace\\app"
+    ]
+  ],
+  "_from": "react-native-android-badge@0.4.3",
+  "_id": "react-native-android-badge@0.4.3",
+  "_inBundle": false,
+  "_integrity": "sha1-3J6nDYnxOenZY5IzGGkv+Yj2514=",
+  "_location": "/react-native-android-badge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-android-badge@0.4.3",
+    "name": "react-native-android-badge",
+    "escapedName": "react-native-android-badge",
+    "rawSpec": "0.4.3",
+    "saveSpec": null,
+    "fetchSpec": "0.4.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-android-badge/download/react-native-android-badge-0.4.3.tgz",
+  "_spec": "0.4.3",
+  "_where": "D:\\workplace\\app",
+  "author": {
+    "name": "Jhen",
+    "email": "developer@jhen.me"
+  },
+  "bugs": {
+    "url": "https://github.com/jhen0409/react-native-android-badge/issues"
+  },
+  "description": "A react native wrapper for leolin310148/ShortcutBadger.",
+  "homepage": "https://github.com/jhen0409/react-native-android-badge#readme",
+  "license": "MIT",
+  "main": "index.android.js",
+  "name": "react-native-android-badge",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jhen0409/react-native-android-badge.git"
+  },
+  "version": "0.4.3"
+}
